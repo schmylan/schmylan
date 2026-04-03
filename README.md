@@ -6,7 +6,7 @@
 <br /><br />
 <a href="https://github.com/web4foundation">
     <picture>
-        <source srcset="https://brand.web4.dev/web4/header/light.svg" media="(prefers-color-scheme: dark)">
+        <source srcset="https://brand.web4.dev/web4/header/dark.svg" media="(prefers-color-scheme: dark)">
         <img src="https://brand.web4.dev/web4/header/light.svg" style="height: 100px">
     </picture>
 </a>
