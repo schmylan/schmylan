@@ -220,8 +220,8 @@ Web dev in the server division. Full-time work, no school.
 
 <table>
   <tr>
-    <td><img src="assets/logos/texas-am-university.jpg" width="48" height="48" alt="Texas A&M University logo"></td>
-    <td><b>Texas A&M University</b><br>BS, Computer Engineering<br>Sep 2000 – Dec 2005</td>
+    <td><img src="assets/logos/texas-am-university.jpg" width="48" height="48" alt="Texas A&amp;M University logo"></td>
+    <td><b>Texas A&amp;M University</b><br>BS, Computer Engineering<br>Sep 2000 – Dec 2005</td>
   </tr>
 </table>
 
